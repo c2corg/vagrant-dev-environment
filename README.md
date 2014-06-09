@@ -7,4 +7,4 @@ Vagrant environment to contribute to the development of camptocamp.org
  * vagrant ssh
  * then follow the instructions displayed in /etc/motd
 
-More info: https://trac.dev.camptocamp.org/wiki/DocumentationDevC2corg
+More info at https://trac.dev.camptocamp.org/wiki/DocumentationDevC2corg
